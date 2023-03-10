@@ -1,0 +1,60 @@
+.password-manager {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 500px;
+  }
+  
+  .password-manager h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .password-manager label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .password-manager input[type="password"] {
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .password-manager button[type="submit"] {
+    padding: 10px;
+    font-size: 18px;
+    background-color: #0066cc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .password-manager button[type="submit"]:hover {
+    background-color: #0052a3;
+  }
+  
+  .password-manager ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .password-manager li {
+    font-size: 18px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .password-manager p {
+    font-size: 18px;
+    margin-top: 20px;
+  }
